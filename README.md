@@ -2,3 +2,5 @@
 
 Proyecto de prácticas para aprender Git,
 SourceGit y Git Flow.
+
+Conflicto1
